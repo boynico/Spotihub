@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1018570201174",
+    "firebase_url": "https://spotihubdb.firebaseio.com",
+    "project_id": "spotihubdb",
+    "storage_bucket": "spotihubdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018570201174:android:75c763073ae0b8e01343f7",
+        "android_client_info": {
+          "package_name": "net.azarquiel.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018570201174-i5fhp63iipc4t2cq9u6084kt1q0p7ct7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.azarquiel.example",
+            "certificate_hash": "f6f968181c4e858592b394e20b0df8340c38062e"
+          }
+        },
+        {
+          "client_id": "1018570201174-jafq3pe0n4i3ci31u6aeilgd474d4u0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnOzWx5QYFUSRT4XoRjyATWg_qcCysNEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018570201174-jafq3pe0n4i3ci31u6aeilgd474d4u0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

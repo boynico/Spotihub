@@ -1,0 +1,2 @@
+rootProject.name='Spotihub'
+include ':app'

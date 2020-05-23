@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Spotihub</string>
+    <string name="main_activity_btn_text">Iniciar sesión</string>
+</resources>
