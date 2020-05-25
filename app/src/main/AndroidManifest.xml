@@ -6,12 +6,19 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/azulspo"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/azulspo"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
-        <activity android:name=".viewmodel.MainActivity">
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".view.ArtistCommentsActivity"></activity>
+        <activity android:name=".view.ArtistActivity" />
+        <activity android:name=".view.SearchActivity" />
+        <activity android:name=".view.RecentlyPlayedActivity" />
+        <activity android:name=".view.LoggedInActivity" />
+        <activity android:name=".view.LoginActivity" />
+        <activity android:name=".view.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

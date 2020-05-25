@@ -1,4 +1,43 @@
 <resources>
     <string name="app_name">Spotihub</string>
     <string name="main_activity_btn_text">Iniciar sesión</string>
+    <string name="title_activity_logged">LoggedActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- loggedIn Activity strings-->
+    <string name="loggedin_activity_artist_title">Top Artists</string>
+
+    <string name="home_second">Home Second</string>
+
+
+    <string name="btn_activityartist_string">Ver comentarios</string>
+    <string name="string001">COMENTARIOS</string>
+    <string name="string002">ENVIAR COMENTARIO</string>
+    <string name="string003">TOP ARTISTAS</string>
+    <string name="string004">TOP CANCIONES</string>
+    <string name="string005">HISTORIAL</string>
+    <string name="string006">CANCION</string>
+    <string name="string007">ALBUM</string>
+    <string name="string008">ARTISTA</string>
+    <string name="string009">Buscar...</string>
+    <string name="string010">PREVIEW</string>
+    <string name="string011">ABRIR SPOTIFY</string>
+    <string name="string012">ALBUMS</string>
+    <string name="string013">ARTISTAS RELACIONADOS</string>
+    <string name="string014">SINGLES</string>
+    <string name="string015">&#8942;</string>
+    <string name="string016">Ver Album</string>
+    <string name="string017">Ver Artista</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
